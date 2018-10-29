@@ -1,0 +1,9 @@
+15:04 $ brew --version
+Homebrew 1.8.0
+Homebrew/homebrew-core (git revision 9e0e; last commit 2018-10-25)
+✔ ~/my-repo [master L|…1]
+15:04 $ python3 --version
+Python 3.7.0
+✔ ~/my-repo [master L|…1]
+15:04 $ pipenv --version
+pipenv, version 2018.10.13
